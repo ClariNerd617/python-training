@@ -62,9 +62,10 @@ GitHub is a online platform for hosting code that promotes collaboration.
 ## Basic Python Syntax
 Here are some good sources for learning the basics of Python's Syntax:
 
-- [Codecademy](https://www.codecademy.com/learn/python) has some free lessons on learning Python
+- [Codecademy](https://www.codecademy.com/learn/learn-python-3) has some free lessons on learning Python
 - [learnpython.org](http://www.learnpython.org/) also has some free, interactive materials
 - The [official](https://docs.python.org/3.5/tutorial/index.html) Python tutorial is pretty good as well
+- [Google's Python Class](https://developers.google.com/edu/python?hl=en) is another free resource for beginners
 
 ## Beginning Python Concepts
 What follows is a series of Jupyter notebooks on learning Python with geoscience objectives. You can either peruse this material with the nbviewer links below or [run the Jupyter notebooks interactively](notebook.html#how-to-run-opt-notebooks).
@@ -72,7 +73,7 @@ What follows is a series of Jupyter notebooks on learning Python with geoscience
 - [Control Flow](/python/controlflowintro)
     * [Conditional Statements](/python/conditionals)
     * [Loops](/python/loops)
-    * [Functions](/python/functionsb)
+    * [Functions](/python/functions)
 - [Basic Data Structures](/python/basic_data_structures)
 - [Basic Input and Output](/python/basic_input_and_output)
 - [Times and Dates](/python/times_and_dates)

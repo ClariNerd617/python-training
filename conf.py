@@ -331,7 +331,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-LOGO_URL = 'https://docs.unidata.ucar.edu/images/logos/unidata_logo_rgb_sm.png'
+LOGO_URL = 'https://www.unidata.ucar.edu/images/logos/unidata_logo_rgb_sm.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -932,9 +932,6 @@ CONTENT_FOOTER = """<script>
   ga('send', 'pageview');
 
 </script>
-<p>Do you find this useful?
-  <a href="https://saythanks.io/to/unidata" class="btn btn-neutral" title="Installation Guide" accesskey="n">Say Thanks!</a>
-</p>
 Contents &copy; {date}
 <a href="mailto:{email}">{author}</a> - Powered by
 <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}
